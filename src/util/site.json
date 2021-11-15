@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Tabernaculo ipora",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Tabernáculo iporá - Site ",
+    "siteUrl": "https://determined-franklin-18414b.netlify.app",
+    "image": "/assets/unnamed.png",
+    "iconimage": "/assets/unnamed.png",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
